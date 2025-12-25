@@ -8,3 +8,4 @@ pydantic
 Pillow
 openai
 email-validator
+python-dotenv
